@@ -1,16 +1,16 @@
-### Hi there, I'm Azizul Haque -  [Azizul's][website] 👋
+### Hi there, I'm Kawsar Ahmed -  [Kawsar's][website] 👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
  - 🔭 I’m currently learning [Programming Hero][programming]!
  - 👯 I’m looking to collaborate on any interesting project
  - 🤔 I’m looking for help with Job
- - 📫 How to reach me: haqueazizul789@gmail.com
- - 🥅 2020 Goals: Learn React,Vue, Node
- - ⚡ Fun fact: I love to see movie and play cricket 
+ - 📫 How to reach me: web.kawsarahmed@gmail.com
+ - 🥅 2020 Goals: Learn React, Node, MongoDB, Express, Mongoose, JavaScript, WordPres-Theme Customization
+ - ⚡ I love to reach people message of Islam
 
 ### Connect with me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/azizul--haque/)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/azizul.haque.789) [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/13943687/azizul-haque)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/web-kawsar-ahmed/)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/web.kawsarahmed) [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/14534717/kawsar-ahmed)
 
 <br />
 
@@ -37,15 +37,15 @@
 <br />
 <br />
 
-<img width="550" alt="Azizul Haque Github Stats"  src="https://github-readme-stats.vercel.app/api?username=azizul016&show_icons=true"/>
+<img width="550" alt="Kawsar Ahmed Github Stats"  src="https://github-readme-stats.vercel.app/api?username=WebKawsar&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=azizul016&card_width=550)](https://github.com/azizul016/azizul016)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=WebKawsar&card_width=550)](https://github.com/WebKawsar/WebKawsar)
 
 [programming]: https://www.programming-hero.com/
-[website]: https://google.com/
+[website]: https://webkawsar.github.io/web-portfolio/
 [twitter]: https://twitter.com/azizul__haque
 [youtube]:  https://www.youtube.com/
-[linkedin]: https://www.linkedin.com/in/azizul--haque/
+[linkedin]: https://www.linkedin.com/in/web-kawsar-ahmed/
 [webdevplaylist]: https://google.com/
 [jsplaylist]: https://google.com/
 [cssplaylist]: https://google.com/
