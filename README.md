@@ -14,7 +14,7 @@
 
 
 ### Hire me:
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/web-kawsar-ahmed/)
+[![Download Resume](=>)](https://drive.google.com/file/d/10Q-Bcs53DWnjsF0iCBUnLvs0daDH_9We/view?usp=sharing)
 
 <br />
 
