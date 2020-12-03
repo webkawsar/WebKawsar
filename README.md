@@ -14,7 +14,7 @@
 
 
 ### Download my Resume:
-[![Download Resume](https://img.shields.io/badge/%20-Resume-black?color=14171A&labelColor=212121&logo=resume&logoColor=ffffff)](https://drive.google.com/file/d/10Q-Bcs53DWnjsF0iCBUnLvs0daDH_9We/view?usp=sharing)
+[![Download Resume](https://img.shields.io/badge/%20-Resume-black?color=14171A&labelColor=212121&logo=resume&logoColor=ffffff)](https://drive.google.com/uc?id=1jxzsiglqKV-yMPP5Jw1lpSu603fLj0rC&export=download)
 
 <br />
 
