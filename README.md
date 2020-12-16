@@ -1,7 +1,7 @@
 ### Hi there, I'm Kawsar Ahmed -  [Kawsar's][website] 👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
- - 🔭 I’m currently learning [Programming Hero][programming]!
+ - 🔭 I’m currently learning from [Programming Hero][programming]!
  - 👯 I’m looking to collaborate on any interesting project
  - 🤔 I’m looking for help with Job
  - 📫 How to reach me: kawsarahmed.developer@gmail.com
@@ -14,7 +14,7 @@
 
 
 ### Download my Resume:
-[![Download Resume](https://img.shields.io/badge/%20-Resume-black?color=14171A&labelColor=212121&logo=resume&logoColor=ffffff)](https://drive.google.com/uc?id=1jxzsiglqKV-yMPP5Jw1lpSu603fLj0rC&export=download)
+[![Download Resume](https://img.shields.io/badge/%20-Resume-black?color=14171A&labelColor=212121&logo=resume&logoColor=ffffff)](https://drive.google.com/drive/folders/1haKCIa0InFPQZr3lLbdy-AkdEFVFn_QJ?usp=sharing)
 
 <br />
 
