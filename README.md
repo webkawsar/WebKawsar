@@ -47,7 +47,7 @@
 
 [programming]: https://www.programming-hero.com/
 [website]: https://kawsar-ahmed.web.app/
-[twitter]: https://twitter.com/azizul__haque
+[twitter]: https://twitter.com/
 [youtube]:  https://www.youtube.com/
 [linkedin]: https://www.linkedin.com/in/web-kawsar-ahmed/
 [webdevplaylist]: https://google.com/
