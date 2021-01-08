@@ -1,7 +1,7 @@
 ### Hi there, I'm Kawsar Ahmed -  [Kawsar's][website] 👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
- - 🔭 I’m currently learning from [Programming Hero][programming]!
+ - 🔭 I’m currently learning Vue & Node
  - 👯 I’m looking to collaborate on any interesting project
  - 🤔 I’m looking for help with Job
  - 📫 How to reach me: kawsarahmed.developer@gmail.com
