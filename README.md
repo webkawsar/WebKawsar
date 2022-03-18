@@ -3,7 +3,7 @@
 ## I'm a 😍😍 JavaScript Lover 😍😍!
  - 👯 I’m looking to collaborate on any interesting project
  - 🤔 I’m looking for help with Job
- - 📫 How to reach me: kawsarahmed.developer@gmail.com
+ - 📫 How to reach me: kawsarahmed.dev@gmail.com
  - 🥅 2020 Goals: Learn React, Redux, Node, MongoDB, Express, Mongoose, JavaScript, Sass, Material Ui, React Bootstrap, WordPres-Theme Customization
  - ⚡ I love to reach people message of Islam
 
